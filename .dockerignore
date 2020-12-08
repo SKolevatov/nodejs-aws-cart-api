@@ -1,0 +1,16 @@
+# No need in node modules, the required will be created in process
+node_modules
+
+# No need in documentation, linters and gitignore in an image
+README.md
+.prettierrc
+.eslintrc.js
+.gitignore
+
+# No need in tests in image
+test
+
+# No need in dist folder in image
+dist
+
+
